@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-rodrigo-sambade.vercel.app",
+  baseUrl: "https://portfolio-astro-rss.vercel.app",
   name: "Rodrigo Sambade",
   jobDescription: "Mobile Application Developer. Previosuly, Research Technician at the University of Santiago de Compostela, Web Developer and Java Developer.",
   about: `I'm a Mobile Application Developer with a strong background in Java and Web Development. I have experience working with Java, Handlebars, HTML, CSS, JavaScript. I'm also a huge fan of open-source and I have contributed to several projects.
